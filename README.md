@@ -1,4 +1,15 @@
-### Hi there 👋, I'm Bryan Ramos!
+# Hello World! <img src="https://raw.githubusercontent.com/CryptoRodeo/CryptoRodeo/master/wave.gif" width="30px">
+
+- 🔭 I'm Bryan Ramos
+- 👨‍💻 I'm a software developer
+- 🐕 Own 2 wonderful yorkies 
+- 🏋️ Love to lift
+- ⛰️ Love to hike
+
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=CryptoRodeo&show_icons=true)
+
+
+ 
 
 <!--
 **CryptoRodeo/CryptoRodeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
