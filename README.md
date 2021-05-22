@@ -7,6 +7,8 @@
 - ⛰️ Love to hike
 
 ![Stats Overview](https://github-readme-stats.vercel.app/api?username=CryptoRodeo&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoRodeo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
  
