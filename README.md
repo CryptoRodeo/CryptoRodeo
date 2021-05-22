@@ -6,8 +6,8 @@
 - 🏋️ Love to lift
 - ⛰️ Love to hike
 
-![Stats Overview](https://github-readme-stats.vercel.app/api?username=CryptoRodeo&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoRodeo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=CryptoRodeo&show_icons=true&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoRodeo&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
