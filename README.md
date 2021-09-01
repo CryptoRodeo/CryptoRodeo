@@ -1,7 +1,7 @@
 # Hello World! <img src="https://raw.githubusercontent.com/CryptoRodeo/CryptoRodeo/master/wave.gif" width="30px">
 
 - 🔭 I'm Bryan Ramos
-- 👨‍💻 I'm a software developer (Currently at Awato)
+- 👨‍💻 I'm a software developer (Currently at Red Hat)
 - 🐕 Own 2 wonderful yorkies 
 - 🏋️ Love to lift
 - ⛰️ Love to hike
