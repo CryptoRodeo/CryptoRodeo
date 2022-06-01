@@ -1,4 +1,4 @@
-# Hello World! <img src="https://raw.githubusercontent.com/CryptoRodeo/CryptoRodeo/master/wave.gif" width="30px">
+# Hello World! <img src="https://raw.githubusercontent.com/CryptoRodeo/CryptoRodeo/master/wave.gif" height="30px">
 
 - 🔭 I'm Bryan Ramos
 - 👨‍💻 I'm a software developer (Currently at Red Hat)
