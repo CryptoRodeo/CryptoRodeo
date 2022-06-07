@@ -2,9 +2,9 @@
 
 - 🔭 I'm Bryan Ramos
 - 👨‍💻 I'm a software developer (Currently at Red Hat)
-- 🐕 Own 2 wonderful yorkies 
-- 🏋️ Love to lift
-- ⛰️ Love to hike
+- 🐕 Owner of 2 wonderful Yorkies 
+- 🏋️ Kettlebell enthusiast
+- ⛰️ Nature wanderer
 
 ![Stats Overview](https://github-readme-stats.vercel.app/api?username=CryptoRodeo&show_icons=true&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoRodeo&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
