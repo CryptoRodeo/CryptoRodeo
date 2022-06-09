@@ -1,4 +1,4 @@
-# Hello World! <img src="https://raw.githubusercontent.com/CryptoRodeo/CryptoRodeo/master/wave.gif" width = 30px height="30px">
+# Hello World! <img src="https://raw.githubusercontent.com/CryptoRodeo/CryptoRodeo/master/wave.gif" width="30" height="30">
 
 - 🔭 I'm Bryan Ramos
 - 👨‍💻 I'm a software developer (Currently at Red Hat)
@@ -15,6 +15,7 @@
 
 <!--
 **CryptoRodeo/CryptoRodeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![image](https://user-images.githubusercontent.com/30709212/172840957-1902d213-1bdf-4953-8c28-ca716f98771c.gif)
 
 Here are some ideas to get you started:
 
