@@ -2,6 +2,7 @@
 
 - 🔭 I'm Bryan Ramos
 - 👨‍💻 Software Developer (Currently at Red Hat)
+- ❤️ Doom Emacs
 - 🖥️ FOSS advocate
 
 
