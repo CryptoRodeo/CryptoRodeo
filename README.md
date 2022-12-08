@@ -3,6 +3,7 @@
 - 🔭 I'm Bryan Ramos
 - 👨‍💻 Software Developer (Currently at Red Hat)
 - ❤️ Doom Emacs
+- ❤️ Org-Mode 🦄
 - 🖥️ FOSS advocate
 
 
