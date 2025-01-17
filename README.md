@@ -7,7 +7,7 @@
 
 **Where to find me:**
 - Here 😄
-- 🔗 Linkedin: https://www.linkedin.com/in/bryan-ramos-789526170
+- 🔗 [Linkedin](https://www.linkedin.com/in/bryan-ramos-789526170)
 
 
 <!--
