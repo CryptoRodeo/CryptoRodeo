@@ -1,8 +1,13 @@
 # Hello World! <img src="https://raw.githubusercontent.com/CryptoRodeo/CryptoRodeo/master/wave.gif" width="30" height="30">
 
+**About:**
 - 🔭 I'm Bryan Ramos
 - 👨‍💻 Software Developer (Currently at Red Hat)
 - 🖥️ FOSS advocate
+
+**Where to find me:**
+- Here 😄
+- 🔗 Linkedin: https://www.linkedin.com/in/bryan-ramos-789526170
 
 
 <!--
