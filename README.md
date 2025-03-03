@@ -4,6 +4,7 @@
 - 🔭 I'm Bryan Ramos
 - 👨‍💻 Software Developer (Currently at Red Hat)
 - 🖥️ FOSS advocate
+- [INTJ](https://www.16personalities.com/intj-personality)
 
 **Where to find me:**
 - Here 😄
