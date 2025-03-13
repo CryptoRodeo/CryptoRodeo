@@ -5,6 +5,7 @@
 - 👨‍💻 Software Developer (Currently at Red Hat)
 - 🖥️ FOSS advocate
 - [INTJ](https://www.16personalities.com/intj-personality)
+- [Girevoy Sport](https://en.wikipedia.org/wiki/Kettlebell_lifting) / [Kettlebell](https://en.wikipedia.org/wiki/Kettlebell) enthusiast
 
 **Where to find me:**
 - Here 😄
